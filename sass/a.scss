@@ -1,0 +1,28 @@
+@import "b.scss";
+@import "c.scss";
+
+// Article
+//
+// An article is made up of a title, featured image, and some default
+// typographic settings for links, italics, bold, and blockquotes.
+//
+// Styleguide Components.article
+
+// Bold Button
+//
+// Markup:
+// <button class="post-title">Click Me</button>
+//
+// Styleguide Components.Buttons.bold
+.post-title {
+    font-weight: bold;
+    background: red;
+}
+
+// Bold Button1
+//
+// Markup:
+// <button class="post-title">Click Me</button>
+// <button type="button">button</button>
+//
+// Styleguide Components.Buttons.bold1
